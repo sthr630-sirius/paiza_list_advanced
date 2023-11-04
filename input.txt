@@ -1,4 +1,4 @@
-6 4
-kirishima rokumura midorikawa kurota neko margaret
-noda kino sakura nitta
-3 4 2 8
+4 4
+a b c d
+w x y z
+1 1 6 7
